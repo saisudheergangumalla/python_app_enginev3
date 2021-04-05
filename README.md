@@ -27,7 +27,7 @@ Commands to be executed sequentially;
 
 $ apt update -y && apt upgrade -y && apt install python3-pip
 
-$ git clone https://github.com/chaitanyakasaraneni/DisasterResponse.git
+$ git clone https://github.com/nihaldarendeli/python_app_enginev3.git
 
 $ cd DisasterResponse/ && pip3 install -U -r requirements.txt
 
