@@ -13,6 +13,33 @@
 ### Introduction<a name="introduction"></a>
 Goal of this project is to build a ML pipeline that can classify disterss messages originating from social media during a natural disaster. In addition, emergencey care workers should have access to the classifcation ML model via a web frontend. Interacting with the frontend, a care worker can input the message and get the message classified into one of the 36 categories
 
+
+----------------------------------------------------------------------------------
+
+
+#####################
+Installation Steps
+#####################
+
+
+Commands to be executed sequentially;
+
+
+$ apt update -y && apt upgrade -y && apt install python3-pip
+
+$ git clone https://github.com/chaitanyakasaraneni/DisasterResponse.git
+
+$ cd DisasterResponse/ && pip3 install -U -r requirements.txt
+
+$ gcloud init
+
+$ gcloud app deploy
+
+$ gcloud app browse -s python-project
+
+----------------------------------------------------------------------------------
+
+
 ### Data and files<a name="data"></a>
 In this project, disaster data from Figure Eight is used.
 ##### data folder 
