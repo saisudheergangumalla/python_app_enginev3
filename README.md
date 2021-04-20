@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-#### Checkout the deployed version of this project on [GCP](https://python-project-dot-project-2-group-5.wl.r.appspot.com/) (ctrl/cmd + Click)
+#### Checkout the deployed version of this project on [GCP](https://python-project-dot-project-2-group-5.wl.r.appspot.com/) 
 
 ### Table of Contents
 1. [Introduction](#introduction)
